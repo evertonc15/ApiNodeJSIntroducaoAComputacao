@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "everton-candido---3nota",
+  "private_key_id": "a40a140764463c17f10227179e699721dd8fc62b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiGlGhd7X5MaiF\nCuL92t9ak25SzKgaHmotkPVRMhI0YkSo7BbBhyie3rchAV8MbMSJGHLblqGP/MHn\nDZ0ROX8etJfs43JAU6OfrQ302Qp9Svt4DBv4TM3QsVK7kCVdpQITRymQ20g60wbD\nCyuzOcL/1IP3K3llXKOZBFsEhW3CZnf9A5yh+Om++5kJbPZjl/5DOE7Yy4ncf2es\neNhQvNV1EdHG+c0FZdEsYo5CPV2DxLXR2IzLTLPeU0mjv89boGK1jLA3eihUgifP\nnSxo+wQQ/ywWD2pCK+37RENotK3nnsvhz7Qg7y9OqQzpI5QruZ6NFSEMMHLnuPES\nxQCOtAMlAgMBAAECggEANHO7sjmgIlAVLWeGZ4no98/4xMYAJuNsi+350xoWleiu\nOtKZ0mk/lZiPPRjKfqS7O3kzwSYOhR7OR0s6ZZZrMa5R8o7uKy5lJYfDmlSYdk5K\n7F9OtZt0hXC7SoGr9Y8tCrveEUdDKfWanIYCz+2C0XEcemAQ2eGN9jdYlC/wghRN\n+QRdYahBO4s+D+5tlMLqKHXoC33IG/YrrlVWYeZwMWnu8sA/uRMhSrNaD8PEV6R9\nVom5PeDclb35BKcGb8SNU8Eyj4+FJRQqizBGKPDoL7OvNr8zn+VN5QPiw+Z09UEa\nIikuTiEzgNC5ozR+XHcu3iNo51Gad/Hx1pzuSfQ2CQKBgQDXbWvZ7CHvAvdFlm0e\n92IiZIeAqUzYAHNvDoqWymTIDgV9aPC2hJGC3syPQRU+uR11IBqLbFphuXCrJz7z\nd20ruYz223TbDQrXs3Pr18xa7DPC+afCCigapAuadQWM0d65oX4eAoEKP98YsO2r\nPPeJr9EQ8SlTApZt3u+wTAc76wKBgQDAoeoDx0a1J06+LRiktKkvJoTCrRINFEA5\nLBQzrN44VSG3hNhDRksv4i9mCcEMO19EbJrUfeXnu9PVbkgt+Mh14EZwN8FaEXz3\nmwEh8A5FFUutXHRHrWqiOkyhOnW6c6uOYpA16bSaCSkZt1oVP+l39b6hRnsp65m2\n78MAW15JLwKBgGvOsYN8PTscU9x6PB+cE3s8recAUpliGGKCd26g2LCY+7xX8OaW\nDy/cCajDHDuobgp4R3BwiAaRw8WTPVif8n1IPTgoeSFKNJvfjWqAMx9pRzoSsBZV\n+N3kLH5eg6mGOZzSKYghHqyfbCkyGa5xMzuvRcPhvBlzmQ5g27hxQ8mDAoGAVa4v\nBms2mhDXx2MLmQb6UYySdHzCkKq3PjbK7YkwdmH3U0d1Ycb8Xln+tyYThbtKzoZ3\n/5fYENDMkhwxYrFLiJKvAe7qw4MP0JpTUKMT1cp5FK0Q02jhCzNfLj9wafRVFEnm\n1vQSbokwjM2u9dCtqbvWhKly0tyGTIYseBYrw+UCgYEA0ClTsNTdsigvt22SgXPN\nDxQH4OAf06yoC8NZTVvJL3NU+5TAtH4Q242JEfqxeYOaCExfaskUVciOnIwBwTtm\nrHbxWTV7bYH72WagmzLK640GsPMi819BM/ON7k+TfpAMPCx6T7noaSiOwCg5qD8I\n53+h5AnFGpEDKtIYWklmwS4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wzrih@everton-candido---3nota.iam.gserviceaccount.com",
+  "client_id": "102570688540509000386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wzrih%40everton-candido---3nota.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
